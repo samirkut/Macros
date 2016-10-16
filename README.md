@@ -7,6 +7,7 @@ For example, the following code sample will generate a result of 15
 var runner = new Runner();
 runner.Scope.SetVariable(x, 5);
 
-var parsedExpr = runner.Parse("x+10");
-var result = runner.Evaluate(parsedExpr);
+var result = runner.Evaluate("x+10");
 ~~~~ 
+
+There is also support for custom functions.

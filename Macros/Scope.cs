@@ -57,5 +57,10 @@ namespace Macros
         {
             Variables[name] = Utils.ConvertToExpression(value, typeof(T));
         }
+
+        public void UnSetVariable(string name)
+        {
+            Variables.Remove(name);
+        }
     }
 }

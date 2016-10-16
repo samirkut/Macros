@@ -46,7 +46,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Expressions\ArrayExpr.cs" />
+    <Compile Include="Expressions\ConstantExpr.cs" />
+    <Compile Include="Expressions\DateTimeExpr.cs" />
+    <Compile Include="Expressions\ErrorExpr.cs" />
     <Compile Include="Expressions\Expr.cs" />
+    <Compile Include="Expressions\FunctionExpr.cs" />
+    <Compile Include="Expressions\NumberExpr.cs" />
+    <Compile Include="Expressions\ObjectExpr.cs" />
+    <Compile Include="Expressions\StringExpr.cs" />
+    <Compile Include="Expressions\VariableExpr.cs" />
     <Compile Include="Grammar\ExprVisitor.cs" />
     <Compile Include="Functions\DelegateFunctionEval.cs" />
     <Compile Include="Functions\OpAddFunctionEval.cs" />
