@@ -85,7 +85,7 @@ STRING
    ;
 
 NUMBER	
-   : MINUS? DIGIT+ (POINT DIGIT+)?
+   : DIGIT+ (POINT DIGIT+)?
    ;
 
 VARIABLE
