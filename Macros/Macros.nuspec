@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>Macros</title>
+    <authors>Samir Kuthiala</authors>
+    <owners>Samir Kuthiala</owners>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/samirkut/Macros</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A simple library to parse and evaluate expressions</description>
+    <copyright>Copyright 2016</copyright>
+  </metadata>
+</package>

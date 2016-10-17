@@ -76,6 +76,7 @@
       <Generator>MSBuild:Compile</Generator>
       <CustomToolNamespace>Macros.Grammar</CustomToolNamespace>
     </Antlr4>
+    <None Include="Macros.nuspec" />
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
