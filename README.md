@@ -6,6 +6,12 @@
 
 This is a simple library to parse expressions and evaluate them. A typical use case would be to provide a macro like functionality in an application.
 
+### Installation
+
+The easiest way is to install via Nuget. Check out [Nuget](https://www.nuget.org/packages/Macros/) for more details on how to do this.
+
+### Examples
+
 For example, the following code sample will generate a result of 15
 ~~~~
 var runner = new Runner();
