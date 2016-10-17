@@ -1,5 +1,6 @@
 
-![Build Status](https://travis-ci.org/samirkut/Macros.svg?branch=master "Travis Build Status")
+[![Build status](https://ci.appveyor.com/api/projects/status/7tanl6yqn5ddnq4h/branch/master?svg=true)](https://ci.appveyor.com/project/samirkut/macros/branch/master)
+
 
 ## Macros
 
